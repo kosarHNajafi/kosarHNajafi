@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/MHLabs.jpg" alt="MH Labs - AI-Driven Healthcare" width="100%">
+  <img src="MHLabs.png" alt="MH Labs - AI-Driven Healthcare" width="100%">
 </p>
 
 # 👋 Hi, I'm Kosar HajNajafi
